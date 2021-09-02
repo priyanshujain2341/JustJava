@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Just Java</string>
+    <string name="name">పేరు</string>
+    <string name="toppings">టాపింగ్స్</string>
+    <string name="whipped_cream">కొరడాతో క్రీమ్</string>
+    <string name="chocolate">చాక్లెట్</string>
+    <string name="quantity">పరిమాణం</string>
+    <string name="order_summary">కొనుగోలు వివరణ</string>
+    <string name="order">ఆర్డర్</string>
+
+    <string name="thank_you">ధన్యవాదాలు!</string>
+    <string name="order_summary_name">పేరు: <xliff:g example="Priyanshu" id="name">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">విప్డ్ క్రీమ్ జోడించండి? <xliff:g example="true" id="whipped_cream">%b</xliff:g></string>
+    <string name="order_summary_chocolate">చాక్లెట్ జోడించండి? <xliff:g example="true" id="chocolate">%b</xliff:g></string>
+    <string name="order_summary_quantity">పరిమాణం: <xliff:g example="1" id="quantity">%d</xliff:g></string>
+    <string name="order_summary_total">మొత్తం: </string>
+
+    <string name="too_few_coffees">మీరు 1 కప్పు కంటే తక్కువ కాఫీని ఆర్డర్ చేయలేరు!</string>
+    <string name="too_many_coffees">మీరు 100 కప్పుల కంటే ఎక్కువ కాఫీలను ఆర్డర్ చేయలేరు!</string>
+
+    <string name="mail_subject">నా ఆజ్ఞ!</string>
+</resources>
